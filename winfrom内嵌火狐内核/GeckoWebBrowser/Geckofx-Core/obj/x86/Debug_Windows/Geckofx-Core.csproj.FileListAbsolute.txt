@@ -1,0 +1,6 @@
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\bin\Debug\Geckofx-Core.dll.config
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\bin\Debug\Geckofx-Core.dll
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\bin\Debug\Geckofx-Core.pdb
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\obj\x86\Debug_Windows\Geckofx-Core.dll
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\obj\x86\Debug_Windows\Geckofx-Core.pdb
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Core\obj\x86\Debug_Windows\Geckofx-Core.csprojResolveAssemblyReference.cache

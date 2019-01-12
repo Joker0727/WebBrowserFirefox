@@ -1,0 +1,47 @@
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Form1.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Properties.Resources.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csproj.GenerateResource.Cache
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Form1.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.ChromeDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.ConfirmDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PasswordDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PromptDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PropertiesDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Properties.Resources.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csproj.GenerateResource.Cache
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.exe
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.ChromeDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.ConfirmDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PasswordDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PromptDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\Gecko.PropertiesDialog.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Properties.Resources.resources
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csproj.GenerateResource.Cache
+C:\Users\ghostljj\Desktop\GeckoWebBrowser\GeckoWebBrowser v45.0-0.31 Code\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.exe
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\bin\x86\Debug\GeckoWebBrowser.pdb
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\Gecko.ChromeDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\Gecko.ConfirmDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\Gecko.PasswordDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\Gecko.PromptDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\Gecko.PropertiesDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.exe
+C:\Users\Administrator\Desktop\新建文件夹\winfrom内嵌火狐内核\GeckoWebBrowser\obj\x86\Debug\GeckoWebBrowser.pdb

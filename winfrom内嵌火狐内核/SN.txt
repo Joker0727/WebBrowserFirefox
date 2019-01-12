@@ -1,0 +1,20 @@
+关键词：GeckoFX
+
+1、下载对应版本的nupkg  后序改zip->解压后->把content.Firefox放到的根目录
+https://www.myget.org/feed/geckofx/package/nuget/Geckofx45/45.0.31
+
+
+2、引用Geckofx-Core.dll，Geckofx-Winforms.dll【此程序已经把2个dll融合到项目里面了】
+
+3、添加控件Geckofx-Winforms.dll【此项目不需要，自带控件了】
+
+4、设置代码
+Gecko.Xpcom.Initialize(Application.StartupPath + "\\xulrunner");
+
+            //geckoWebBrowser1.LoadHtml(strHtml); 
+            geckoWebBrowser1.Navigate("http://www.baidu.com");
+
+
+-------------------------------------------------------------------------------
+备注：源程序网址https://bitbucket.org/geckofx/  可以随时看下新版
+我们暂时使用的是45.0-0.31版本源程序，地址https://myget-2e16.kxcdn.com/privatefeedgeckofx/Geckofx45-45.0.31?sv=2015-12-11&sr=b&sig=jXnTTh2ZuUfROQrIEZmiRwBtIPEGhsdM3jQv%2BVAkKFA%3D&st=2017-05-20T11%3A55%3A00Z&se=2017-05-20T13%3A05%3A00Z&sp=r&rscc=max-age%3D3600&rsct=binary%2Foctet-stream&rscd=filename%3DGeckofx45.45.0.31.nupkg

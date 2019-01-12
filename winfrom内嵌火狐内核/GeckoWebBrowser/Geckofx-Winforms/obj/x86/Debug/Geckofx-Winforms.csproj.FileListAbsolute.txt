@@ -1,0 +1,14 @@
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\bin\Debug\Geckofx-Core.dll.config
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\bin\Debug\Geckofx-Winforms.dll
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\bin\Debug\Geckofx-Core.dll
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\bin\Debug\Geckofx-Core.pdb
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Geckofx-Winforms.csprojResolveAssemblyReference.cache
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Gecko.ChromeDialog.resources
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Gecko.ConfirmDialog.resources
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Gecko.PasswordDialog.resources
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Gecko.PromptDialog.resources
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Gecko.PropertiesDialog.resources
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Geckofx-Winforms.csproj.GenerateResource.Cache
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Geckofx-Winforms.dll
+C:\Users\ghostljj\Desktop\geckofx-geckofx-45.0-1efce673e72a\Geckofx-Winforms\obj\x86\Debug\Geckofx-Winforms.pdb
